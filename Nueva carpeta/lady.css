@@ -1,0 +1,14 @@
+body{
+    background-color:#9f4545;
+}
+h1{
+    font-weight:  700;
+    font-size: 105px;
+    margin: 30px;
+    text-shadow: 1px 3px 3px #d4d4d4;
+}
+img{
+    width: 70%;
+    display: inline-block;
+    border-radius: 10%;
+}
